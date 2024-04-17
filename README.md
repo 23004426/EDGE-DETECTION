@@ -108,15 +108,22 @@ plt.show()
 ## Output:
 ### SOBEL EDGE DETECTOR
 ## Sobel X Axis
+![image](https://github.com/23004426/EDGE-DETECTION/assets/144979327/64589c6d-6eb8-4a27-a907-35bd34e9bed6)
+
 ## Sobel Y Axis
+![image](https://github.com/23004426/EDGE-DETECTION/assets/144979327/98b8b499-73c4-416e-9eae-eaa570c2bba3)
+
 ## Sobel XY Axis
+![image](https://github.com/23004426/EDGE-DETECTION/assets/144979327/d104cd92-1b7d-4a48-b716-1cc28806aab2)
 
 
 ### LAPLACIAN EDGE DETECTOR
+![image](https://github.com/23004426/EDGE-DETECTION/assets/144979327/f74509a0-79d0-4734-8acb-51612fd39078)
 
 
 
 ### CANNY EDGE DETECTOR
+![image](https://github.com/23004426/EDGE-DETECTION/assets/144979327/8aaaf1d5-cebf-4201-b0d2-ace9f724409c)
 
 
 ## Result:
